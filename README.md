@@ -5,7 +5,7 @@ Full Stack Web Developer
 ------------------------
 
 *   🌍  I'm based in Austria St. Pölten
-*   🖥️  See my portfolio at [My Portfolio](http://prometh.net)
+<!--*   🖥️  See my portfolio at [My Portfolio](http://)-->
 *   ✉️  You can contact me at [s.staudenmayer@outlook.com](mailto:s.staudenmayer@outlook.com)
 *   🚀  I'm currently working on [Nothing specific](http://https://github.com/Staudenmayer?tab=repositories)
 *   🧠  I'm learning Astro### Skills 
